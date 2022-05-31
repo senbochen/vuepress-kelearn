@@ -1,0 +1,1 @@
+const e={key:"v-5de7f7a0",path:"/chapter-8/",title:"\u7B2C\u56DB\u7AE0 \u8A00\u8BED",lang:"zh-CN",frontmatter:{},excerpt:"",headers:[{level:2,title:"\u5FC3\u7406\u5B66",slug:"\u5FC3\u7406\u5B66",children:[]}],git:{updatedTime:null,contributors:[]},filePathRelative:"chapter-8/index.md"};export{e as data};
